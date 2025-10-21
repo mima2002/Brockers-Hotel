@@ -430,8 +430,14 @@
   .h-\[0vh\] {
     height: 0vh;
   }
+  .h-\[1vh\] {
+    height: 1vh;
+  }
   .h-\[16px\] {
     height: 16px;
+  }
+  .h-\[17vh\] {
+    height: 17vh;
   }
   .h-\[36px\] {
     height: 36px;
@@ -456,6 +462,15 @@
   }
   .h-\[85vh\] {
     height: 85vh;
+  }
+  .h-\[95vh\] {
+    height: 95vh;
+  }
+  .h-\[100vh\] {
+    height: 100vh;
+  }
+  .h-\[175vh\] {
+    height: 175vh;
   }
   .h-\[200px\] {
     height: 200px;
